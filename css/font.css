@@ -37,5 +37,5 @@
 @font-face {
   font-display: swap;
   font-family: "Aquatico";
-  src: url("/fonts/Aquatico-Regular.woff2") format("woff2");
+  src: url("../fonts/Aquatico-Regular.woff2") format("woff2");
 }
